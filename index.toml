@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "add_missing_packwiz_mods.bat"
+hash = "eb357be906549329da8bb2f6cf0a2d281a1277b0b8e103682d7fb8c720e9a88a"
+
+[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
@@ -1465,6 +1469,11 @@ file = "index.html"
 hash = "ae61868dbf66639faf6f76b59ccb375a0fce3778338e97b34b4174f9db1f75cc"
 
 [[files]]
+file = "mods/addon-for-irons-spells-n-spellbooks-unofficial.pw.toml"
+hash = "500a329680c3c2e23805322f111d1fc5d1e175885b3d8eca4726ad01047313ff"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "74bbdad7434bc02ec767c15c0136269f885331601f73fa2365252c24e58c09bd"
 metafile = true
@@ -1545,6 +1554,11 @@ hash = "fec49033058ced91f7668d4e305e599f5527501ef37c1f30f96d8927d6202d32"
 metafile = true
 
 [[files]]
+file = "mods/better-chunk-loading-forge-fabric.pw.toml"
+hash = "7499dcfc1c246bf1ceb3b82992cc7478a9d8e29900f6c77c1c2a425665b4841d"
+metafile = true
+
+[[files]]
 file = "mods/bossesrise.pw.toml"
 hash = "ee892fd4cbe8b81cc7cb59c7238029b1053a157f76a0e7c0b0315b176fb18a86"
 metafile = true
@@ -1567,6 +1581,11 @@ metafile = true
 [[files]]
 file = "mods/chunk-loaders.pw.toml"
 hash = "1171ef431ac21929d77df6f39e3f611da22a55f692395d8be0fc67f8ebf47c85"
+metafile = true
+
+[[files]]
+file = "mods/chunk-sending-forge-fabric.pw.toml"
+hash = "86252c4e6701b798dac5ddef4b0fa6b6f5bdb280e83945b5b98d7c0be4441a35"
 metafile = true
 
 [[files]]
@@ -1660,8 +1679,13 @@ hash = "6292625ed60e17068f3e7927d26c75053b64269c922f10b1c87ceea51ccb194e"
 metafile = true
 
 [[files]]
+file = "mods/cupboard.pw.toml"
+hash = "7e58c4b66225f8719153ab8dbafd5973a04a0ec5bb400027cb1d6c482010d08a"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
-hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
+hash = "1315cd56b0b4a5b3d53374cebf4f1f3cd0546b05058740847bd226c1d1ccab39"
 metafile = true
 
 [[files]]
@@ -1690,6 +1714,11 @@ hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
+file = "mods/fast-async-world-save-forge-fabric.pw.toml"
+hash = "e6362452d4834dc0919f89ea95b7242c3a5c4d61a0ebfc425ecfc6c71dc5afd0"
+metafile = true
+
+[[files]]
 file = "mods/fastload.pw.toml"
 hash = "832e8a46a8abf0363eeeea3f860b6b8ec5af2e9e8bb717be03fee848470dd538"
 metafile = true
@@ -1702,6 +1731,11 @@ metafile = true
 [[files]]
 file = "mods/field-guide.pw.toml"
 hash = "cebf2336fc1b375e51b399168002895108f1bf3f3c67f1c3e1099c602dbcb2ef"
+metafile = true
+
+[[files]]
+file = "mods/foes.pw.toml"
+hash = "8be085ff37756b1b422b0c7fee4b9837dea9d6663e6ff28d36fd3da3889d1527"
 metafile = true
 
 [[files]]
@@ -1731,7 +1765,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "30fe947e95d8da536ea4ad3c959f07cc504dd739ea530f7f4187ac08f4afcbc0"
+hash = "a1dba016bfd85fbabc5ff7c78f0302d3dd5b20026842231d6422947a7bb5f6f0"
 metafile = true
 
 [[files]]
@@ -1776,7 +1810,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-lib.pw.toml"
-hash = "2a18e331ff0abcf4b3a735ae22ea646db6144a5e329c81bad45962f0af7552d7"
+hash = "d088e252d73788a36d179161308ac884f979201fb4ee880473aeb22ede59947a"
 metafile = true
 
 [[files]]
@@ -1786,7 +1820,7 @@ metafile = true
 
 [[files]]
 file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "587f35bf23ac75570b167ee6ae4e76255a084b10452f406c0dbf6fa81ada24dd"
+hash = "80c16d0c60b8904ac00d67ba74553ca608bf4f5a9f4562e992567a57d67f5a2d"
 metafile = true
 
 [[files]]
@@ -1851,7 +1885,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "457f1d7c34cb8cb605b002fee89d3f0a766eb461ef82236c48cb1196b1e81a97"
+hash = "1d623ba29fcb52d5db733af383a13273792ac3dc1ac7a8f9e3f58a17ae1bc2c7"
 metafile = true
 
 [[files]]
@@ -1966,7 +2000,7 @@ metafile = true
 
 [[files]]
 file = "mods/playeranimator.pw.toml"
-hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
+hash = "b52622122c19a3894e62fc5506d7c3332d202504fd406d6718be646f979feb40"
 metafile = true
 
 [[files]]
@@ -1986,7 +2020,17 @@ metafile = true
 
 [[files]]
 file = "mods/pufferfishs-unofficial-additions.pw.toml"
-hash = "c472c8a225a5518875fb3d719726123b202c1bf93482f87241b1eb62475e5f66"
+hash = "e576809804f34e498a096252191324da3edacb0aff0aa9ccded26e768ea3b3d8"
+metafile = true
+
+[[files]]
+file = "mods/puffish-attributes.pw.toml"
+hash = "3ae63c3e117bd2be113f4a95f26c32947cdf2242326fc425c8ca56c17b580403"
+metafile = true
+
+[[files]]
+file = "mods/puffish-skills.pw.toml"
+hash = "17ea1f1bb47b49f0e582fb5dc88419dd84ce8d1ffa5f3e19ef16342f2a5b0781"
 metafile = true
 
 [[files]]
@@ -2007,6 +2051,11 @@ metafile = true
 [[files]]
 file = "mods/sbw-advanced-ciws.pw.toml"
 hash = "dc7894909088f2a3cc2510323f824316ce25472ff35a0ea49c8ab28b2d871f43"
+metafile = true
+
+[[files]]
+file = "mods/sbw-drr.pw.toml"
+hash = "f1e5dcb8e9883ab48212c2b8529e7f1b70d17e126c5b603a2b22b1bcf4d7253a"
 metafile = true
 
 [[files]]
@@ -2112,6 +2161,11 @@ metafile = true
 [[files]]
 file = "mods/tree-harvester.pw.toml"
 hash = "d6ddde622109dc5072e84fc6493c44950314594864a74495d898bcefbd3f2e8b"
+metafile = true
+
+[[files]]
+file = "mods/unofficial-irons-spells-n-spellbooks-skill-tree.pw.toml"
+hash = "8ec52725b2106cf9888c95f90736a6bed30ea0f7cc2a3386bccecaf4f6613090"
 metafile = true
 
 [[files]]

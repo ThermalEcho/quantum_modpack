@@ -1,0 +1,13 @@
+name = "[SBW]DragonRise:Reforge"
+filename = "[SBW089]dragonrise_reforge-1.4.1.01-hotfix1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e01a566e71b7fe08b11aed63c6fa4d4a6bde090d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8131704
+project-id = 1346094
