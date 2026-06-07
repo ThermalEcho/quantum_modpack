@@ -1,13 +1,18 @@
-name = "AutoModpack"
-filename = "automodpack-mc1.20.1-forge-4.0.5.jar"
-side = "both"
+filename = 'automodpack-mc1.20.1-forge-4.0.5.jar'
+name = 'AutoModpack'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '4.0.5'
 
 [download]
-url = "https://cdn.modrinth.com/data/k68glP2e/versions/oC2XsXSP/automodpack-mc1.20.1-forge-4.0.5.jar"
-hash-format = "sha512"
-hash = "fbac2a829d21f25fbff1c013bbc1a8b2e5f1550a0256d80c2623477fb424b3a32e4fe27290dd357eaf78f229128282a94393daff1a5ee7b0f6ae118508ec1675"
+hash = 'fbac2a829d21f25fbff1c013bbc1a8b2e5f1550a0256d80c2623477fb424b3a32e4fe27290dd357eaf78f229128282a94393daff1a5ee7b0f6ae118508ec1675'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/k68glP2e/versions/oC2XsXSP/automodpack-mc1.20.1-forge-4.0.5.jar'
 
-[update]
 [update.modrinth]
-mod-id = "k68glP2e"
-version = "oC2XsXSP"
+mod-id = 'k68glP2e'
+version = 'oC2XsXSP'
