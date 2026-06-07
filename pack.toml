@@ -1,4 +1,4 @@
-name = "Quantum Epic Modpack"
+name = "QuantumModpack"
 author = "Quantum"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "b2d0f444304c7e8a4c53fac1efd4c98c8c712936ab0d2c0da6718efa85e17cf5"
+hash = "4fe4f47ae307455187818ea848f48a5a230a48c4e3d9280b0e8e9cd96c7c7c86"
 
 [versions]
 forge = "47.4.20"
