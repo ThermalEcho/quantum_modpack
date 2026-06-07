@@ -1,0 +1,13 @@
+name = "iron's spellbooks arcane essence blocks"
+filename = "Arcane_EssencePlus.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Pkj2hNRk/versions/kaccDUXC/Arcane_EssencePlus.jar"
+hash-format = "sha512"
+hash = "1f0fb19307094b20e0c12a52fb2f7ef7e39fde6e7dc7456b47a38f38a2577db0ee5631ec749660801dcd5b77bb0dcdd4252bf0a2467daa57d94fe6c25a84c655"
+
+[update]
+[update.modrinth]
+mod-id = "Pkj2hNRk"
+version = "kaccDUXC"

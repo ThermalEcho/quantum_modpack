@@ -1,0 +1,13 @@
+name = "Simply Tools"
+filename = "SimplyTools-1.20.1-2.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v7uAVl86/versions/WAuDF3CQ/SimplyTools-1.20.1-2.0.8.jar"
+hash-format = "sha512"
+hash = "caf0d04d69aafaa0c5778b0ca6ae58267de962ab11f7946c61fb04ea09b4e04f1fdeeef33b0679cbd112f84f96f6b8bdd0f74b1f5eaa83f1027243c9360b34dc"
+
+[update]
+[update.modrinth]
+mod-id = "v7uAVl86"
+version = "WAuDF3CQ"

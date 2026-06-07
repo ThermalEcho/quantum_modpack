@@ -1,0 +1,13 @@
+name = "Map Distance Fix"
+filename = "mapdistancefix-forge-1.1.1+mc1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/51BNNAng/versions/TdCESFsc/mapdistancefix-forge-1.1.1%2Bmc1.20.1.jar"
+hash-format = "sha512"
+hash = "cb2c133746a9af746a2e2512e293e51aa5653bc7529a1ee8c535e1d84e549407595b35ec95b4f04e387fe7c3edaefbaaf6b64c177846f9f42b12ee9ac81afa7c"
+
+[update]
+[update.modrinth]
+mod-id = "51BNNAng"
+version = "TdCESFsc"

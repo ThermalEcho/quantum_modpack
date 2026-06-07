@@ -1,0 +1,25 @@
+
+[proximityCrafting]
+	#When true, automatically refills the crafting grid after taking a crafted item.
+	autoRefillAfterCraft = true
+	#When true, player inventory slots are included as ingredient sources.
+	includePlayerInventory = true
+	#Source priority for ingredient extraction. Allowed values: CONTAINERS_FIRST, PLAYER_FIRST
+	sourcePriority = "CONTAINERS_FIRST"
+	#When true, remembers UI toggle states between table openings (Ingredients panel and Craftable Only toggles).
+	rememberToggleStates = true
+	#Last remembered state for the Ingredients panel.
+	proximityItemsPanelOpen = true
+	#Ingredients panel X offset. Negative moves left, positive moves right.
+	#Range: > -2147483648
+	proximityItemsPanelOffsetX = 0
+	#Ingredients panel Y offset. Negative moves up, positive moves down.
+	#Range: > -2147483648
+	proximityItemsPanelOffsetY = 0
+	#Last remembered state for JEI Craftable Only toggle.
+	jeiCraftableOnlyEnabled = false
+	#Last remembered state for EMI Craftable Only toggle.
+	emiCraftableOnlyEnabled = false
+	#When true, enables client-side debug/performance logging (PROXC-CLIENT/PROXC-SCROLL). Server logs remain controlled by server debugLogging.
+	debugLogging = false
+

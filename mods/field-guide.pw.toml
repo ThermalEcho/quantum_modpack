@@ -1,0 +1,13 @@
+name = "Field Guide"
+filename = "fieldguide-forge-1.20.1-1.8.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/72RRCWM6/versions/m0M26Pze/fieldguide-forge-1.20.1-1.8.0.jar"
+hash-format = "sha512"
+hash = "9295933dda75b136f749dfae4eee0db00bd02cffeab9e3921578fb470f6172df1100e1750347cf00968558daf6a094684ec0ae0e26bed6cd73f8c859935adcd0"
+
+[update]
+[update.modrinth]
+mod-id = "72RRCWM6"
+version = "m0M26Pze"

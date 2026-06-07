@@ -1,0 +1,13 @@
+name = "Iron Furnace: Reburn"
+filename = "Iron Furnace Reburn-forge-1.20.1-0.4.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LfXshAjE/versions/PyBw1yL1/Iron%20Furnace%20Reburn-forge-1.20.1-0.4.5.jar"
+hash-format = "sha512"
+hash = "bf4adf3620adaae18518d381dcc435ec4af3a9195b530d833d78622cc93905d7be9741186bbe63dde2e4b525a6504708eeb70aa6002b416a0fd0bfd8e3c12ea5"
+
+[update]
+[update.modrinth]
+mod-id = "LfXshAjE"
+version = "PyBw1yL1"

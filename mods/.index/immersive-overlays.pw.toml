@@ -1,0 +1,21 @@
+filename = 'immersiveoverlays-1.7.2+1.20.1-forge.jar'
+name = 'Immersive Overlays'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.7.2+1.20.1-forge'
+
+[download]
+hash = '7f6a30c1d923471eec0d45a5e6f0d29223a8154f0f549230fcf99f6573716e5df9e341670f5990d1992711f52a42b540502bc1bc66c2ce4fa22a6ddc6c5ee3a0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/PKoLkD98/versions/8DHCwPho/immersiveoverlays-1.7.2%2B1.20.1-forge.jar'
+
+[update.modrinth]
+mod-id = 'PKoLkD98'
+version = '8DHCwPho'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9s6osm5g'
+type = 'OPTIONAL'

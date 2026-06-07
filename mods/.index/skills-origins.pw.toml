@@ -1,0 +1,25 @@
+filename = 'puffish_skills_origins-0.2.1-1.20.1-forge.jar'
+name = "Pufferfish's Skills x Origins"
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '0.2.1'
+
+[download]
+hash = '567c15e8546eafc9e7f71f12dd0547fefcd5653a107e9449e1ae58a5f57cf61689f62841eca7ead2528920d5b03d173ecb10667bf31bd1d0dc8f05a0582e0199'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/G2gG8giX/versions/oZhcvoU9/puffish_skills_origins-0.2.1-1.20.1-forge.jar'
+
+[update.modrinth]
+mod-id = 'G2gG8giX'
+version = 'oZhcvoU9'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'jl3m2lR9'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'hqQqvaa4'
+type = 'REQUIRED'

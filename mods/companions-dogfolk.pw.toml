@@ -1,0 +1,13 @@
+name = "Companions - Dogfolk"
+filename = "companions-dogfolk-1.0.1-forge-1.20.1-47.4.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pKwVUqTt/versions/I8FzOn7b/companions-dogfolk-1.0.1-forge-1.20.1-47.4.0.jar"
+hash-format = "sha512"
+hash = "0e648f0e90d044c53524b60fa4db5890493669c1b28b8a6a75bbdeb9214ba1fb19fb7b831d7af36709de8644e7c23fbddfe55875c1aa2d1b92d0742eab35fd66"
+
+[update]
+[update.modrinth]
+mod-id = "pKwVUqTt"
+version = "I8FzOn7b"

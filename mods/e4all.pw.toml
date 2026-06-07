@@ -1,0 +1,13 @@
+name = "e4all"
+filename = "e4all-forge-1.5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fB1gJLGX/versions/Gf74k1mI/e4all-forge-1.5.2.jar"
+hash-format = "sha512"
+hash = "fb945ebe05d0bdf96b246d85fa5946d501e129ffa5fadd3b090cafa079b1ba7e60e382bd16c1136bff3e7257777acc15ce851851145911f4f7ab2d757005eeb5"
+
+[update]
+[update.modrinth]
+mod-id = "fB1gJLGX"
+version = "Gf74k1mI"

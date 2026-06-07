@@ -1,0 +1,18 @@
+filename = 'dynamicwaters-8.0.0.jar'
+name = 'Dynamic Waters: Realistic Flowing Rivers'
+side = 'both'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '8.0.0'
+
+[download]
+hash = 'ad245532ed93866739697384b45ae4faf70c95746d0ae85e0767ae025e8d7774414bcbfdb26e5a36541eb5fff946da8d0938f1040c87d82d35c463b74f7f7573'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/wL4lvEci/versions/nJyFMhuX/dynamicwaters-8.0.0.jar'
+
+[update.modrinth]
+mod-id = 'wL4lvEci'
+version = 'nJyFMhuX'

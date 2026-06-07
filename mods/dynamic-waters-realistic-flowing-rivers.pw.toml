@@ -1,0 +1,13 @@
+name = "Dynamic Waters: Realistic Flowing Rivers"
+filename = "dynamicwaters-8.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wL4lvEci/versions/nJyFMhuX/dynamicwaters-8.0.0.jar"
+hash-format = "sha512"
+hash = "ad245532ed93866739697384b45ae4faf70c95746d0ae85e0767ae025e8d7774414bcbfdb26e5a36541eb5fff946da8d0938f1040c87d82d35c463b74f7f7573"
+
+[update]
+[update.modrinth]
+mod-id = "wL4lvEci"
+version = "nJyFMhuX"
