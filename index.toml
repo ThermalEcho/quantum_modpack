@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "add_packwiz_mods_from_json.bat"
-hash = "accb404ddd116122721e0bf73221539de553d6004fa0830c219fb89a3889bade"
-
-[[files]]
 file = "config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
